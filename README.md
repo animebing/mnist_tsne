@@ -11,3 +11,5 @@ t-sne visualization of mnist images when feature is represented by raw pixels an
 | <img src="train/data_2d.png" > | <img src="train/output_2d.png">|
 |:---:|:---:|
 |*t-sne of raw image pixel*|*t-sne of cnn learned feature*|
+
+from above visualization, it is shown that t-sne of cnn learned feature is **more centered** and **cleaner** than that of t-sne of raw image pixel 
