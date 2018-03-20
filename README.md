@@ -8,7 +8,7 @@ t-sne visualization of mnist images when feature is represented by raw pixels an
 - tsne_vis.ipynb is used to do tsne and visualization
 
 # visualization
-<img src="train/data_2d.png" width="50%"> <img src="train/output_2d.png width="50%">
+<img src="train/data_2d.png" width="50%"> <img src="train/output_2d.png" width="50%">
 [t-sne of raw image pixel](train/data_2d.png)
 [t-sne of cnn learned feature](train/output_2d.png)
 
