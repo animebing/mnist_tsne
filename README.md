@@ -9,5 +9,4 @@ t-sne visualization of mnist images when feature is represented by raw pixels an
 
 # visualization
 | <img src="train/data_2d.png" > | <img src="train/output_2d.png">|
-|:--:|:--:|
 |t-sne of raw image pixel|t-sne of cnn learned feature|
